@@ -13,4 +13,4 @@ app.use(express.json())
 - To handle the coockies app.use(coockieParser())
 
 - to serve statu assets
-app.use(express.static('public'))
+app.use(express.static('public'))# Backend-Youtube-Twitter
